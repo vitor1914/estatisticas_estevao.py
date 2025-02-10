@@ -9,3 +9,13 @@ Este projeto exibe estatísticas do jogador Estêvão na temporada, incluindo go
 
    ```sh
    pip install matplotlib
+
+
+Execute o script:
+
+python estatisticas_estevao.py
+Isso imprimirá as estatísticas no terminal e exibirá um gráfico de desempenho.
+
+Resultado
+
+O script gera um gráfico de barras salvo como estatisticas_estevao.png, que ilustra as estatísticas do jogador.
